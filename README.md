@@ -1,4 +1,4 @@
-# Random-Password-Generator
+# Python Random-Password-Generator
 RP Generator is a tool specially designed for you to generate random password ideas so you can make yourself secure on the internet.  The special thing about this password generator is that you will get passwords that are actual combinations of words and really easy to remember e.g : AtheistGod.  This Project is a combination of multiple password generators so you will get multiple types of passwords in the same tool. it is a python based project that you can use on windows without and heavy dependencies 
 
 #User Guide:
